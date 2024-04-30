@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|c:\\users\\pedzo\\source\\repos\\it_lab2_mvc\\it_lab2_mvc\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|solutionrelative:it_lab2_mvc\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|c:\\users\\pedzo\\source\\repos\\it_lab2_mvc\\it_lab2_mvc\\models\\eventsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|solutionrelative:it_lab2_mvc\\models\\eventsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|c:\\users\\pedzo\\source\\repos\\it_lab2_mvc\\it_lab2_mvc\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|solutionrelative:it_lab2_mvc\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|c:\\users\\pedzo\\source\\repos\\it_lab2_mvc\\it_lab2_mvc\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|solutionrelative:it_lab2_mvc\\views\\events\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|c:\\users\\pedzo\\source\\repos\\it_lab2_mvc\\it_lab2_mvc\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2A45A56-EC83-4AFC-8A7D-F7A9258EE113}|IT_lab2_MVC\\IT_lab2_MVC.csproj|solutionrelative:it_lab2_mvc\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "IT_lab2_MVC\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "IT_lab2_MVC\\Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvywAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T06:26:49.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Views\\Events\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IT_lab2_MVC\\Views\\Events\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Views\\Events\\Edit.cshtml",
+              "RelativeToolTip": "IT_lab2_MVC\\Views\\Events\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T06:26:20.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "IT_lab2_MVC\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "IT_lab2_MVC\\Views\\Events\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T06:25:46.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Models\\EventsModel.cs",
+              "RelativeDocumentMoniker": "IT_lab2_MVC\\Models\\EventsModel.cs",
+              "ToolTip": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Models\\EventsModel.cs",
+              "RelativeToolTip": "IT_lab2_MVC\\Models\\EventsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:24:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "IT_lab2_MVC\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\Pedzo\\source\\repos\\IT_lab2_MVC\\IT_lab2_MVC\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "IT_lab2_MVC\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:23:44.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
